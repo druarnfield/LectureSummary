@@ -1,0 +1,5 @@
+# Ignore all files in the myenv directory
+myenv/
+# Ignore video and audio files
+*.mp3
+*.mp4
